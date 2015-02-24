@@ -1,6 +1,5 @@
 # Fibonacci Story Point Menu for Axosoft
-This chrome plugin makes it easy to assign story points in Axosoft. Just right click a story's estimate cell and select one of the fibonacci numbers from the menu.
-
+This chrome plugin allows you to quickly assign story points in Axosoft. It injects story point choices into the context menu. Right click a story and select one of the fibonacci numbers from the menu. Make sure you right click inside the "Initial Estimate" column or the story point options won't appear in the menu.
 ![Screenshot](https://raw.githubusercontent.com/rodmcnew/fibonacci-story-point-menu-for-axosoft-chrome-plugin/master/screenshot.png)
 
 # How to Install
