@@ -1,4 +1,4 @@
-# Faster Scrum Product Backlog Refinement Meetings
+# Faster Scrum Planning Poker Meetings
 This chrome plugin allows you to quickly assign story points in Axosoft. It injects story point choices into the context menu. Right click a story and select one of the fibonacci numbers from the menu. Make sure you right click inside the "Initial Estimate" column or the story point options won't appear.
 
 ![Screenshot](https://raw.githubusercontent.com/rodmcnew/fibonacci-story-point-menu-for-axosoft-chrome-plugin/master/screenshot.png)
