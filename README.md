@@ -6,7 +6,7 @@ This chrome plugin allows you to quickly assign story points in Axosoft. It inje
 # How to Install
 1. Download [fibonacci-story-point-menu-for-axosoft.crx](http://github.com/rodmcnew/fibonacci-story-point-menu-for-axosoft-chrome-plugin/raw/master/fibonacci-story-point-menu-for-axosoft.crx)
 2. Type chrome://extensions in Chrome's address bar to open the extensions window
-3. Drag fibonacci-story-point-menu-for-axosoft.crx onto Chrome's extensions window
+3. Drag [fibonacci-story-point-menu-for-axosoft.crx](http://github.com/rodmcnew/fibonacci-story-point-menu-for-axosoft-chrome-plugin/raw/master/fibonacci-story-point-menu-for-axosoft.crx) onto Chrome's extensions window
 
 # BSD License:
  Copyright (c) 2015, Rod Mcnew (rodmcnew@gmail.com)
